@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://binderiyabyambasuren.github.io/sitemap.xml
+Sitemap: https://binderiya-bya.github.io/sitemap.xml

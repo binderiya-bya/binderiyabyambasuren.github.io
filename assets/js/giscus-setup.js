@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "binderiya-bya/binderiyabyambasuren.github.io",
+    "data-repo": "binderiya-bya/binderiya-bya.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
