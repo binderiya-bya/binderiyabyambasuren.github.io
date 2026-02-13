@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-consultancy",
+          title: "consultancy",
+          description: "Overview of consultancy work and outreach",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/consultancy/";
+          },
         },{id: "nav-curriculum-vitae",
           title: "curriculum vitae",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
