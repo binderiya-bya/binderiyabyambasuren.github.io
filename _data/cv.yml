@@ -8,7 +8,7 @@
     - name: Research Areas
       value: Applied Macroeconomics, Labor and Demography, Climate and Inclusive Growth
     - name: Methods
-      value: Climate Modeling, Econometric Calibration, Input-Output Modeling, Structural Estimation, Micro Simulation, Randomized Controlled Experiments
+      value: Climate Modeling, Structural Estimation, Econometric Calibration, Input-Output Modeling, Micro Simulation, Randomized Controlled Experiments
 
 - title: Education
   type: time_table
