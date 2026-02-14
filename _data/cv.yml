@@ -8,7 +8,7 @@
     - name: Research Areas
       value: Applied Macroeconomics, Labor and Demography, Climate and Inclusive Growth
     - name: Methods
-      value: Climate Modeling, Structural Estimation, Econometric Calibration, Input-Output Modeling, Micro Simulation, Randomized Controlled Experiments
+      value: Climate Modeling, Econometric Calibration, Input-Output Modeling, Structural Estimation, Micro Simulation, Randomized Controlled Experiments
 
 - title: Education
   type: time_table
@@ -23,27 +23,21 @@
       institution: Mount Holyoke College, South Hadley, MA
       year: 2015
 
-
 - title: Professional Experience
   type: time_table
   contents:
-  
     - title: Consultant (Economist)
       institution: Environment, Natural Resources, and Blue Economy (ENB) Global Practice, The World Bank, Washington, DC
-      year: 2024 - present       
-        
+      year: 2024 - present
     - title: Post Doctoral Fellow
       institution: Institute for Women's Policy Research, Washington, DC
       year: 2023 - 2024
-        
     - title: Impact Evaluation Consultant
       institution: Gender Innovation Lab, The World Bank, Washington, DC
       year: 2023 - 2024
-
     - title: Monetary Policy Intern
       institution: Central Bank of Mongolia, Ulaanbaatar, Mongolia
       year: 2017
-      
     - title: Summer Research Assistant
       institution: UNICEF Headquarters, New York, NY
       year: 2014
@@ -54,36 +48,36 @@
     - title: "Gender Employment Effects of Climate Change Mitigation Scenarios in Emerging Economies"
       year: 2026
       description:
-        - With Franziska Deininger, Bence Kiss-Dobronyi, Ulrike Lehr, and Ira Irina Dorband
-        - Under review at the <i>Journal of Economic Policy Reform</i>
+        - "With Franziska Deininger, Bence Kiss-Dobronyi, Ulrike Lehr, and Ira Irina Dorband"
+        - "Under review at the <i>Journal of Economic Policy Reform</i>"
     - title: "MINDSET 2.0 Model Documentation"
       year: 2026
       description:
-        - With Bence Kiss-Dobronyi, Marco Brancher, Ira Irina Dorband, Hector Pollitt, Xinru Lin, Aron Denes Hartvig, and Ulrike Lehr
+        - "With Bence Kiss-Dobronyi, Marco Brancher, Ira Irina Dorband, Hector Pollitt, Xinru Lin, Aron Denes Hartvig, and Ulrike Lehr"
         - "SSRN Working Paper. <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6188978'>Link</a>"
     - title: "Estimation of Behavioral Parameters for the MINDSET 2.0 Model: Methodology and Results"
       year: 2025
       description:
-        - With Marco Brancher, Bence Kiss-Dobronyi, Xinru Lin, Aron Denes Hartvig, Ira Irina Dorband, Hector Pollitt, and Ulrike Lehr
+        - "With Marco Brancher, Bence Kiss-Dobronyi, Xinru Lin, Aron Denes Hartvig, Ira Irina Dorband, Hector Pollitt, and Ulrike Lehr"
         - "SSRN Working Paper. <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6213498'>Link</a>"
     - title: "Data Documentation for MINDSET 2.0 Parametrization"
       year: 2025
       description:
-        - With Marco Brancher, Bence Kiss-Dobronyi, Xinru Lin, Aron Denes Hartvig, Ira Irina Dorband, Hector Pollitt, and Ulrike Lehr
+        - "With Marco Brancher, Bence Kiss-Dobronyi, Xinru Lin, Aron Denes Hartvig, Ira Irina Dorband, Hector Pollitt, and Ulrike Lehr"
         - "SSRN Working Paper. <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206398'>Link</a>"
-        
+
 - title: Selected Previous Research
   type: time_table
   contents:
     - title: "Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium Framework"
       year: 2020
       description:
-        - With Carmen Estrades and Marzia Fontana
-        - <i>Care Work and the Economy Working Paper</i>. <a href='https://research.american.edu/careworkeconomy/blog/2019/08/30/fontanaetal2019/'>Link</a>
+        - "With Carmen Estrades and Marzia Fontana"
+        - "<i>Care Work and the Economy Working Paper</i>. <a href='https://research.american.edu/careworkeconomy/blog/2019/08/30/fontanaetal2019/'>Link</a>"
     - title: "Family Caregiving at Older Ages: Implications for Adult Children by Race and Ethnicity"
-        year: 2023
-        description:
-        - <i>Center for Financial Security Working Paper</i>. SSA Retirement and Disability Research Consortium. <a href='https://rdrc.wisc.edu/project/jsit22-05'>Link</a>
+      year: 2023
+      description:
+        - "<i>Center for Financial Security Working Paper</i>. SSA Retirement and Disability Research Consortium. <a href='https://rdrc.wisc.edu/project/jsit22-05'>Link</a>"
 
 - title: Selected Presentations
   type: time_table
@@ -91,25 +85,22 @@
     - title: "Long-Term Care and Family Caregiving"
       year: 2025
       description:
-        - American Economic Association Annual Meeting (ASSA 2025), San Francisco, CA
-        
-    - title: "Gender Roles and Household Production&#58; Do We Model Our Parents?"
+        - "American Economic Association Annual Meeting (ASSA 2025), San Francisco, CA"
+    - title: "Gender Roles and Household Production: Do We Model Our Parents?"
       year: 2024
       description:
-        - American Economic Association Annual Meeting (ASSA 2024), San Antonio, TX
-        - Association for Social Economics Annual Research Conference, Boston, MA
-
+        - "American Economic Association Annual Meeting (ASSA 2024), San Antonio, TX"
+        - "Association for Social Economics Annual Research Conference, Boston, MA"
     - title: "Long-Term Care and Family Caregiving"
       year: 2022
       description:
-        - Association for Public Policy Analysis & Management Research Conference, Washington, DC
-        - International Association for Feminist Economics Annual Meeting, Geneva, Switzerland
-        
+        - "Association for Public Policy Analysis &amp; Management Research Conference, Washington, DC"
+        - "International Association for Feminist Economics Annual Meeting, Geneva, Switzerland"
     - title: "Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium Framework"
       year: 2019
       description:
-        - Care Work and the Economy Annual Meeting, Glasgow, Scotland
-        - International Association for Feminist Economics Annual Meeting, Glasgow, Scotland
+        - "Care Work and the Economy Annual Meeting, Glasgow, Scotland"
+        - "International Association for Feminist Economics Annual Meeting, Glasgow, Scotland"
 
 - title: Coding Languages
   type: list
