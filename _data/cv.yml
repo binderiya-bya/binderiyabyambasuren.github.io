@@ -2,9 +2,11 @@ cv:
   name: Binderiya Byambasuren
   label: Economist
   location: Washington, DC
-  summary: An applied macroeconomist specializing in climate modeling, inclusive growth, and labor economics. 
 
   sections:
+    Interests:
+      - keywords: "Applied Macroeconomics, Labor and Demography, Climate and Inclusive Growth"
+      
     Education:
       - institution: American University
         location: Washington, DC
@@ -111,7 +113,8 @@ cv:
         releaseDate: 2025
         url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206398
         summary: Documents the data sources and parametrization process for the MINDSET 2.0 model.
-
+        
+   Selected Previous Research:
       - title: "Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium Framework"
         authors:
           - Binderiya Byambasuren
@@ -129,6 +132,30 @@ cv:
         releaseDate: 2023
         url: https://rdrc.wisc.edu/project/jsit22-05
         summary: Examines racial and ethnic disparities in family caregiving patterns among adult children of aging parents.
+
+    Selected Presentations:
+      - title: "Long-Term Care and Family Caregiving"
+        year: 2025
+        description:
+          - American Economic Association Annual Meeting (ASSA 2025), San Francisco, CA
+        
+      - title: "Gender Roles and Household Production&#58; Do We Model Our Parents?"
+        year: 2024
+        description:
+          - American Economic Association Annual Meeting (ASSA 2024), San Antonio, TX
+          - Association for Social Economics Annual Research Conference, Boston, MA
+  
+      - title: "Long-Term Care and Family Caregiving"
+        year: 2022
+        description:
+          - Association for Public Policy Analysis & Management Research Conference, Washington, DC
+          - International Association for Feminist Economics Annual Meeting, Geneva, Switzerland
+          
+      - title: "Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium Framework"
+        year: 2019
+        description:
+          - Care Work and the Economy Annual Meeting, Glasgow, Scotland
+          - International Association for Feminist Economics Annual Meeting, Glasgow, Scotland
 
     Skills:
       - name: Coding Languages
