@@ -1,121 +1,189 @@
 cv:
-  name: Binderiya Byambasuren
-  location: Washington, DC
-  email: bbyambasuren@worldbank.org
-  website: https://binderiya-bya.github.io
+  name: Albert Einstein
+  label: Scientist
+  email: einstein@example.com
+  location: Princeton, NJ
+  image: ""
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+
   social_networks:
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
     - network: LinkedIn
-      username: binderiyabyambasuren
-    - network: Google Scholar
-      username: IIK7qcwAAAAJ
+      username: example
+
+  address:
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
+
   sections:
-    general_information:
-      - label: Languages
-        details: Mongolian, English
-      - label: Research Areas
-        details: Applied Macroeconomics, Labor and Demography, Climate and Inclusive Growth
-      - label: Methods
-        details: Climate Modeling, Structural Estimation, Econometric Calibration, Input-Output Modeling, Micro Simulation, Randomized Controlled Experiments
-    education:
-      - institution: American University
-        area: Economics
-        degree: Ph.D.
-        location: Washington, DC
-        end_date: 2023
-      - institution: American University
-        area: Economics
-        degree: M.A.
-        location: Washington, DC
-        end_date: 2018
-      - institution: Mount Holyoke College
-        area: Economics
-        degree: B.A.
-        location: South Hadley, MA
-        end_date: 2015
-    professional_experience:
-      - company: The World Bank
-        position: Consultant (Economist)
-        location: Washington, DC
-        start_date: 2024
-        end_date: present
+    Education:
+      - institution: University of Zurich
+        location: Zurich, Switzerland
+        url: https://www.uzh.ch/
+        area: Physics
+        studyType: PhD
+        start_date: 1900
+        end_date: 1905
+        score: ""
+        courses: "Theory of Relativity"
         highlights:
-          - "Environment, Natural Resources, and Blue Economy (ENB) Global Practice, Climate & Green Growth team"
-      - company: Institute for Women's Policy Research
-        position: Post Doctoral Fellow
-        location: Washington, DC
-        start_date: 2023
-        end_date: 2024
-        highlights: []
-      - company: The World Bank
-        position: Impact Evaluation Consultant
-        location: Washington, DC
-        start_date: 2023
-        end_date: 2024
+          - Description 1.
+          - Description 2.
+
+      - institution: Eidgenössische Technische Hochschule
+        location: Zurich, Switzerland
+        area: Physics
+        studyType: Federal teaching diploma
+        start_date: 1896
+        end_date: 1900
         highlights:
-          - "Gender Innovation Lab"
-      - company: Central Bank of Mongolia
-        position: Monetary Policy Intern
-        location: Ulaanbaatar, Mongolia
-        start_date: 2017
-        end_date: 2017
-        highlights: []
-      - company: UNICEF Headquarters
-        position: Summer Research Assistant
-        location: New York, NY
-        start_date: 2014
-        end_date: 2014
-        highlights: []
-    current_research:
-      - name: "Gender Employment Effects of Climate Change Mitigation Scenarios in Emerging Economies"
-        date: 2026
+          - Description 1.
+          - Description 2.
+
+    Experience:
+      - company: Institute for Advanced Study, Princeton University
+        position: Professor of Theoretical Physics
+        location: Princeton University, NJ
+        start_date: 1933
+        end_date: 1955
+        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
-          - "With Franziska Deininger, Bence Kiss-Dobronyi, Ulrike Lehr, and Ira Irina Dorband"
-          - "Under review at the *Journal of Economic Policy Reform*"
-      - name: "MINDSET 2.0 Model Documentation"
-        date: 2026
+          - Relativity
+          - Description 2.
+
+      - company: California Institute of Technology
+        position: Visiting Professor
+        location: Pasadena, California, US
+        start_date: 1933
+        end_date: 1933
         highlights:
-          - "With Bence Kiss-Dobronyi, Marco Brancher, Ira Irina Dorband, Hector Pollitt, Xinru Lin, Aron Denes Hartvig, and Ulrike Lehr"
-          - "SSRN Working Paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6188978)"
-      - name: "Estimation of Behavioral Parameters for the MINDSET 2.0 Model: Methodology and Results"
-        date: 2025
+          - Description 1.
+          - Description 2.
+
+      - company: Kaiser Wilhelm Institute for Physics
+        position: Director
+        location: Berlin, Germany
+        start_date: 1917
+        end_date: 1933
+
+      - company: Karl-Ferdinand University
+        position: Professor of Theoretical Physics
+        location: Prague, Czechoslovakia
+        start_date: 1911
+        end_date: 1917
+
+      - company: University of Zurich
+        position: Associate Professor of Theoretical Physics
+        location: Zurich, Switzerland
+        start_date: 1909
+        end_date: 1911
+
+    Volunteer:
+      - company: People's Climate March
+        position: Lead Organizer
+        location: Zurich, Switzerland
+        start_date: 2014-04-01
+        end_date: 2015-07-01
+        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
         highlights:
-          - "With Marco Brancher, Bence Kiss-Dobronyi, Xinru Lin, Aron Denes Hartvig, Ira Irina Dorband, Hector Pollitt, and Ulrike Lehr"
-          - "SSRN Working Paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6213498)"
-      - name: "Data Documentation for MINDSET 2.0 Parametrization"
-        date: 2025
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
+
+    Awards:
+      - title: Nobel Prize in Physics
+        authors:
+          - "Royal Swedish Academy of Sciences"
+        date: 1921-11-01
+        awarder: Royal Swedish Academy of Sciences
+        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+
+      - title: Max Planck Medal
+        authors:
+          - "German Physical Society"
+        date: 2029
+        awarder: German Physical Society
+        summary: Awarded for outstanding scientific achievement
+
+    Publications:
+      - title: Zur Elektrodynamik bewegter Körper
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-06-30
+        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+
+      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-03-18
+        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+
+      - title: Die Grundlage der allgemeinen Relativitätstheorie
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1916-03-20
+        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+
+    Skills:
+      - name: Physics
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Languages:
+      - name: German
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Physics
+        icon: fa-solid fa-tag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Certificates:
+      - name: Machine Learning
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-location-dot
+
+      - name: Quantum Computing
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-tag
+
+      - name: Quantum Information
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-envelope
+
+    Projects:
+      - name: Quantum Computing
+        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
         highlights:
-          - "With Marco Brancher, Bence Kiss-Dobronyi, Xinru Lin, Aron Denes Hartvig, Ira Irina Dorband, Hector Pollitt, and Ulrike Lehr"
-          - "SSRN Working Paper. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6206398)"
-    selected_previous_research:
-      - name: "Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium Framework"
-        date: 2020
-        highlights:
-          - "With Carmen Estrades and Marzia Fontana"
-          - "*Care Work and the Economy Working Paper*. [Link](https://research.american.edu/careworkeconomy/blog/2019/08/30/fontanaetal2019/)"
-      - name: "Family Caregiving at Older Ages: Implications for Adult Children by Race and Ethnicity"
-        date: 2023
-        highlights:
-          - "*Center for Financial Security Working Paper*. SSA Retirement and Disability Research Consortium. [Link](https://rdrc.wisc.edu/project/jsit22-05)"
-    selected_presentations:
-      - name: "Long-Term Care and Family Caregiving"
-        date: 2025
-        highlights:
-          - "American Economic Association Annual Meeting (ASSA 2025), San Francisco, CA"
-      - name: "Gender Roles and Household Production: Do We Model Our Parents?"
-        date: 2024
-        highlights:
-          - "American Economic Association Annual Meeting (ASSA 2024), San Antonio, TX"
-          - "Association for Social Economics Annual Research Conference, Boston, MA"
-      - name: "Long-Term Care and Family Caregiving"
-        date: 2022
-        highlights:
-          - "Association for Public Policy Analysis & Management Research Conference, Washington, DC"
-          - "International Association for Feminist Economics Annual Meeting, Geneva, Switzerland"
-      - name: "Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium Framework"
-        date: 2019
-        highlights:
-          - "Care Work and the Economy Annual Meeting, Glasgow, Scotland"
-          - "International Association for Feminist Economics Annual Meeting, Glasgow, Scotland"
-    coding_languages:
-      - label: Programming
-        details: R, Python, STATA, MATLAB
+          - Quantum Teleportation
+          - Quantum Cryptography
+        start_date: 2018-01-01
+        end_date: 2018-01-01
+
+    References:
+      - name: Professor John Doe
+        icon: fa-solid fa-laptop
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+      - name: Professor Jane Smith
+        icon: fa-solid fa-thumbtack
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
