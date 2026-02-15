@@ -8,32 +8,28 @@ cv:
     Education:
       - institution: American University
         location: Washington, DC
-        area: Economics
-        studyType: Ph.D.
+        studyType: Ph.D. in Economics
         start_date: 2018
         end_date: 2023
 
       - institution: American University
         location: Washington, DC
-        area: Economics
-        studyType: M.A.
+        studyType: M.A. in Economics
         start_date: 2016
         end_date: 2018
 
       - institution: Mount Holyoke College
         location: South Hadley, MA
-        area: Economics
-        studyType: B.A.
+        studyType: B.A. in Economics
         start_date: 2011
         end_date: 2015
 
     Experience:
-      - company: The World Bank
+      - company: Environment, Natural Resources, and Blue Economy (ENB) Global Practice, The World Bank Group
         position: Consultant (Economist)
         location: Washington, DC
         start_date: 2024
         end_date: present
-        summary: Environment, Natural Resources, and Blue Economy (ENB) Global Practice.
 
       - company: Institute for Women's Policy Research
         position: Post Doctoral Fellow
@@ -41,12 +37,11 @@ cv:
         start_date: 2023
         end_date: 2024
 
-      - company: The World Bank
+      - company: Gender Innovation Lab, The World Bank Group
         position: Impact Evaluation Consultant
         location: Washington, DC
         start_date: 2023
         end_date: 2024
-        summary: Gender Innovation Lab.
 
       - company: Central Bank of Mongolia
         position: Monetary Policy Intern
@@ -60,7 +55,7 @@ cv:
         start_date: 2014
         end_date: 2014
 
-    Publications:
+    Research:
       - title: "Gender Employment Effects of Climate Change Mitigation Scenarios in Emerging Economies"
         authors:
           - Binderiya Byambasuren
@@ -137,12 +132,10 @@ cv:
 
     Skills:
       - name: Coding Languages
-        level: ""
         icon: fa-solid fa-code
         keywords: "R, Python, STATA, MATLAB"
 
       - name: Methods
-        level: ""
         icon: fa-solid fa-chart-line
         keywords: "Macro Modeling, Structural Estimation, Econometric Calibration, Input-Output Modeling, Micro Simulation, Randomized Controlled Experiments"
 
